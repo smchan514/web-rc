@@ -1,0 +1,5 @@
+{
+	"wifiSsid":"<Replace WIFI SSID>",
+	"wifiPass":"<Replace WIFI password>",
+	"WIFI_INITIALIZED":"1"
+}
